@@ -60,11 +60,11 @@ text-align: center;
     }
 
 .formulaire{
-  text-align: center;
+  text-align: left;
     display: block;
     margin: auto;
     padding: 50px;
-    max-width: 60%;
+    max-width: 40%;
 padding-left: 10%;
 
 }
