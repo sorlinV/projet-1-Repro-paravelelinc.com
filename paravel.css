@@ -1,0 +1,255 @@
+
+
+li {
+    display:inline-block;
+margin-left: 30px;
+text-decoration: none; 
+} 
+
+} 
+}
+Font {	
+
+    font-family: "aktiv-grotesk",sans-serif;
+    Font being rendered:"aktiv-grotesk";
+    font-size: 19px;
+    src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); }
+
+/* enlever soulignement liens*/
+a 
+{
+    color: inherit;
+    text-decoration: none;
+}
+header
+{
+    font-family: "aktiv-grotesk";
+    font-style: "normal";
+    font-weight: "400";
+    background: url('/home/vivi/Downloads/amigos-large.png') no-repeat center;
+}
+
+
+#bg{
+    width: 80%;
+    display: block;
+    margin:auto;
+}
+
+.cleareur{
+    clear:both;
+    color:transparent;
+    background: transparent;
+}
+
+.trait{/*trait en dessous img */
+    clear:both;
+}
+
+.prem
+{ 
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 50px;
+}
+
+.sec{
+text-align: center;
+    }
+
+.formulaire{
+  text-align: center;
+    display: block;
+    margin: auto;
+    padding: 50px;
+    max-width: 60%;
+padding-left: 40%;
+background: url("/img/paravel-flag.png") no-repeat 5% 1em;
+}
+
+.flat{
+background: url("/img/paravel-flag.png") no-repeat 5% 1em;
+width: 350px;
+	height: 350px;
+    max-width: 60%;
+padding-left: 40%;
+
+}
+
+.cont{
+    color: #231f20;
+text-transform: uppercase;
+font-family: "alternate-gothic-no-1-d", "league gothic", sans-serif;
+font-weight: normal;
+font-style: normal;
+font-size: 3.25em;
+}
+
+h1, h2, h3, h4{
+    color: #231f20;
+    text-transform: uppercase;
+    font-family: "alternate-gothic-no-1-d", "league gothic", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 3.25em;
+    }
+
+.wor{
+     margin-left:100px;
+        width: 80%;
+    text-align: center;
+    height:75px;
+    }
+
+figure{
+    width:150px;
+}
+
+.section {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
+.section img {
+    margin-left: 50px;
+}
+
+td, tr {
+border-top: solid 1px grey;
+border-right: solid 1px grey;
+border-left: solid 1px grey;
+border-bottom: solid 1px grey;
+padding: 50px;
+}
+
+
+
+
+
+.w {
+    text-align: center;
+}
+
+.textwork{
+    max-width: 54%;
+    text-align: left;
+    margin: 0 auto 1.75em;
+src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); }
+    color: #666666
+    color: rgb(102, 102, 102)
+    background-color: #000000
+    background-color: rgba(0, 0, 0, 0)
+    font-family (stack): "aktiv-grotesk",sans-serif
+    font-size: 20px	
+    line-height: 30px
+    vertical-align: baseline
+    letter-spacing: normal
+    word-spacing: 0px
+}
+
+.logo a:hover{
+color: grey;
+}
+
+.imgabout{
+border-top: solid 1px grey;
+border-right: solid 1px grey;
+border-left: solid 1px grey;
+border-bottom: solid 1px grey; 
+padding: 15px;
+width: 80%;
+display: block;
+margin-left:80px;
+}
+
+.person{
+ margin-left:100px;
+ width: 80%;
+ text-align: center;
+ display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    justify-content: space-around;
+    
+   
+} 
+
+em{
+    font-size: 0.8em;
+    margin: 0;
+    padding-bottom: 1.25em;
+    display: block;
+}
+
+h5 {
+text-transform: uppercase;
+font-family: "alternate-gothic-no-1-d", "league gothic", sans-serif;
+font-weight: normal;
+font-style: normal;
+font-size: 1em;
+}
+
+p{
+    margin: 0 auto 1.75em;
+}
+
+h2{
+        color: #231f20;
+    text-transform: uppercase;
+    font-family: "alternate-gothic-no-1-d", "league gothic", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 3.25em;
+    text-align: center;
+}
+
+.textabout{
+    
+    max-width: 54%;
+    text-align: left;
+    margin: 0 auto 1.75em;
+src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); }
+    color: #666666;
+    color: rgb(102, 102, 102);
+    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0);
+    font-family (stack): "aktiv-grotesk",sans-serif;
+    font-size: 20px	;
+    line-height: 30px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    word-spacing: 0px;
+    margin: 20px;
+   .textwork{
+    max-width: 54%;
+    text-align: left;
+    margin: 0 auto 1.75em;
+src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); }
+    color: #666666
+    color: rgb(102, 102, 102)
+    background-color: #000000
+    background-color: rgba(0, 0, 0, 0)
+    font-family (stack): "aktiv-grotesk",sans-serif
+    font-size: 20px	
+    line-height: 30px
+    vertical-align: baseline
+    letter-spacing: normal
+    word-spacing: 0px
+}
+.trait2{
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.abo{
+ margin-left:100px;
+ width: 80%;
+ text-align: center;
+ border: 0;
+}
+
