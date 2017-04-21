@@ -13,7 +13,8 @@ Font {
     font-family: "aktiv-grotesk",sans-serif;
     Font being rendered:"aktiv-grotesk";
     font-size: 19px;
-    src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); }
+    src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); 
+    }
 
 /* enlever soulignement liens*/
 a 
@@ -64,8 +65,8 @@ text-align: center;
     margin: auto;
     padding: 50px;
     max-width: 60%;
-padding-left: 40%;
-background: url("/img/paravel-flag.png") no-repeat 5% 1em;
+padding-left: 10%;
+
 }
 
 .flat{
