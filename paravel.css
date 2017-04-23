@@ -53,6 +53,7 @@ header
     display: block;
     margin: auto;
     padding: 50px;
+    
 }
 
 .sec{
@@ -136,20 +137,18 @@ padding: 50px;
 }
 
 .textwork{
+    padding: 10px 10px 10px 10px;
     max-width: 54%;
     text-align: left;
-    margin: 0 auto 1.75em;
+    margin: 0 auto  1.75em;
 src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/d?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/a?primer=b997bcdf54b83a9f7b731c29130c4fbe326c83acb7cf220896c6041d3c02ba6a&fvd=n4&v=3") format("opentype"); }
     color: #666666
     color: rgb(102, 102, 102)
     background-color: #000000
     background-color: rgba(0, 0, 0, 0)
     font-family (stack): "aktiv-grotesk",sans-serif
-    font-size: 20px	
-    line-height: 30px
-    vertical-align: baseline
-    letter-spacing: normal
-    word-spacing: 0px
+    
+    
 }
 
 .logo a:hover{
@@ -254,3 +253,33 @@ src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer
  border: 0;
 }
 
+#conteneur
+
+{
+display: flex | inline-flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around ;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.element{
+margin: auto;
+}
+
+span{
+    color: orangered;
+}
+
+#community{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.traitc{/*trait en dessous img */
+    clear:both;
+    width:70%;
+    
+    }
