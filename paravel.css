@@ -152,9 +152,13 @@ src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer
     
     
 }
-
+.logo{
+    font-size: 3.25em;
+}
 .logo a:hover{
 color: grey;
+height= 50%;
+width= 50%; 
 }
 
 .imgabout{
@@ -258,14 +262,20 @@ src: url("https://use.typekit.net/af/1b7938/00000000000000000001786f/27/l?primer
 #conteneur
 
 {
-display: flex | inline-flex;
-    display: flex;
+display: flex;
+    
     flex-wrap: wrap;
-    justify-content: space-around ;
+    justify-content: left  ;
     align-items: center;
     text-align: center;
-    padding: 20px;
+     padding: 20px;
+padding-left:20px;
+padding-right:20px;
+    
+
+
 }
+li:hover a {color : orangered} 
 
 .element{
 margin: auto;
@@ -287,7 +297,7 @@ span{
     }
     
 #grey{
-    color: grey;
+    color: gray;
 }
 
 #conteneur2{
@@ -313,4 +323,6 @@ align-items: left;
     
 
 } 
+
+
 
